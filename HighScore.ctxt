@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=HighScore
+comment0.text=\r\n\ Created\ constructor\ for\ Highscore\ class\ with\ name\ and\ score\ instance\r\n\ variables.\r\n\r\n\ @author\ (Kurt\ Johnson)\r\n\ @version\ (2/8/2020)\r\n
+comment1.params=name\ score
+comment1.target=HighScore(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getScore()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
